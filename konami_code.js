@@ -11,6 +11,8 @@ const codes = [
   "a"
 ];
 
+function init (){
+
 let index = 0; 
 
 let miles = document.body; 
@@ -35,6 +37,6 @@ miles.addEventListener("keydown",function(e) {
   
 });
 
-
+}
  
 
